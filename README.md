@@ -1,0 +1,2 @@
+# Rutgers_ECON420_ComputationalMethodsforEconomics_Fall2022
+Quantitative models for Economics in MATLAB
